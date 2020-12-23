@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-23T22:56:59" hostname="DESKTOP-EDIJLIC" time="12.089">
+  <properties/>
+  <testcase name="divisionOfTwoNumbers()" classname="tests.CalculatorTest" time="1.957"/>
+  <testcase name="sumOfTwoNumbers()" classname="tests.CalculatorTest" time="2.718"/>
+  <testcase name="subtractionOfTwoNumbers()" classname="tests.CalculatorTest" time="2.741"/>
+  <testcase name="multiplyTwoNumbers()" classname="tests.CalculatorTest" time="2.773"/>
+  <system-out><![CDATA[Division result: 2
+Sum result: 9
+Subtraction result: 3
+Multiply result: 18
+]]></system-out>
+  <system-err><![CDATA[dez. 23, 2020 7:56:58 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
